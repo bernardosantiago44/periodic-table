@@ -1,0 +1,106 @@
+[
+  {
+    "id": 0,
+    "element": "Hydrogen",
+    "atomic_number": 1,
+    "atomic_symbol": "H",
+    "color" : "non_metal",
+    "properties" : {
+      "general" : {
+        "group": "1 (Hydrogen and alkaline metals)",
+        "period": "1",
+        "category": "Non metal",
+        "electron_configuration": ["1s", "1"]
+      },
+      "physical": {
+        "has_melting_point": true,
+        "melting_point": [-259.16, 13.99, -434.49],
+        "has_boiling_point" : true,
+        "boiling_point": [-252.879, 20.271, -423.182],
+        "has_density": true,
+        "density": 0.000089,
+        "has_atomic_mass": true,
+        "atomic_mass": 1.008,
+        "state_at_20_degrees": "Gas"
+      }
+    }
+  },
+  {
+    "id": 1,
+    "element": "Helium",
+    "atomic_number": 2,
+    "atomic_symbol": "He",
+    "color" : "noble_gas",
+    "properties" : {
+      "general" : {
+        "group": "18 (Noble gases)",
+        "period": "1",
+        "category": "Noble gas",
+        "electron_configuration": ["1s", "2"]
+      },
+      "physical": {
+        "has_melting_point": true,
+        "melting_point": [-272.20, 0.95, -457.96],
+        "has_boiling_point" : true,
+        "boiling_point": [-268.928, 4.222, -452.07],
+        "has_density": true,
+        "density": 0.000178,
+        "has_atomic_mass": true,
+        "atomic_mass": 4.003,
+        "state_at_20_degrees": "Gas"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "element": "Lithium",
+    "atomic_number": 3,
+    "atomic_symbol": "Li",
+    "color" : "alkali_metal",
+    "properties" : {
+      "general" : {
+        "group": "1 (H and alkali metals)",
+        "period": "2",
+        "category": "Alkali metal",
+        "electron_configuration": ["[He]2s", "1"]
+      },
+      "physical": {
+        "has_melting_point": true,
+        "melting_point": [180.50, 453.65, 356.90],
+        "has_boiling_point" : true,
+        "boiling_point": [1342, 1615, 2448],
+        "has_density": true,
+        "density": 0.534,
+        "has_atomic_mass": true,
+        "atomic_mass": 6.94,
+        "state_at_20_degrees": "Solid"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "element": "Berylium",
+    "atomic_number": 4,
+    "atomic_symbol": "Be",
+    "color" : "alkaline_earth_metal",
+    "properties" : {
+      "general" : {
+        "group": "2 (Alkaline Earth metals)",
+        "period": "2",
+        "category": "Alkaline Earth metal",
+        "electron_configuration": ["[He]2s", "2"]
+      },
+      "physical": {
+        "has_melting_point": true,
+        "melting_point": [1286.85, 1560, 2348.33],
+        "has_boiling_point" : true,
+        "boiling_point": [2470.85, 2744, 4479.53],
+        "has_density": true,
+        "density": 1.85,
+        "has_atomic_mass": true,
+        "atomic_mass": 9.0122,
+        "state_at_20_degrees": "Solid"
+      }
+    }
+  }
+]

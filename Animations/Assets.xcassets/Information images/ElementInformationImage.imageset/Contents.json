@@ -1,0 +1,116 @@
+{
+  "images" : [
+    {
+      "filename" : "English_light.svg",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "light"
+        }
+      ],
+      "filename" : "English_light-1.svg",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "Enlgish_dark.svg",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "English_light-2.svg",
+      "idiom" : "universal",
+      "locale" : "en"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "light"
+        }
+      ],
+      "filename" : "English_light-3.svg",
+      "idiom" : "universal",
+      "locale" : "en"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "Enlgish_dark-1.svg",
+      "idiom" : "universal",
+      "locale" : "en"
+    },
+    {
+      "filename" : "Spanish_light.svg",
+      "idiom" : "universal",
+      "locale" : "es"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "light"
+        }
+      ],
+      "filename" : "Spanish_light-1.svg",
+      "idiom" : "universal",
+      "locale" : "es"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "Spanish_dark.svg",
+      "idiom" : "universal",
+      "locale" : "es"
+    },
+    {
+      "filename" : "Spanish_light-3.svg",
+      "idiom" : "universal",
+      "locale" : "es-419"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "light"
+        }
+      ],
+      "filename" : "Spanish_light-2.svg",
+      "idiom" : "universal",
+      "locale" : "es-419"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "Spanish_dark-1.svg",
+      "idiom" : "universal",
+      "locale" : "es-419"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "localizable" : true
+  }
+}
